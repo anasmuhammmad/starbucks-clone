@@ -1,9 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
-:root{
-	--color--primary:  #006241;
-	--color--secondary: #d50032;
-	--color--extra: #d4e9e2;
-}
+
 
 *{
 	box-sizing: border-box;
@@ -29,9 +25,7 @@ p{
 img{
 	max-width: 100%;
 }
-section a{
-	color: white;
-}
+
 .navbar{
 	width: 100%;
 	height: auto;
